@@ -18,3 +18,13 @@
 ### linux 2.png
 ![linux 2](linux/linux%202.png)
 
+### linux 3.png
+![linux 3](linux/linux%203.png)
+
+### linux 4.png
+![linux 4](linux/linux%204.png)
+
+### linux 5.png
+![linux 5](linux/linux%205.png)
+
+
